@@ -105,3 +105,38 @@ vitis_rx/
 # 取消忽略 import 目录
 !ddr4_0_ex/import/
 !ddr4_0_ex/import/**
+
+
+
+
+
+
+
+
+
+
+
+# Vivado generated
+*.jou
+*.log
+*.str
+*.zip
+*.wdb
+*.wcfg
+*.pb
+*.dmp
+
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# ModelSim/Questa
+modelsim.ini
+vsim.wlf
+work/
+transcript
+modelsim_lib/
