@@ -1,0 +1,5 @@
+Command:
+git ls-remote https://github.com/pha1aris/vivado_prj_errctrl.git
+
+Output:
+fatal: unable to access 'https://github.com/pha1aris/vivado_prj_errctrl.git/': CONNECT tunnel failed, response 403
